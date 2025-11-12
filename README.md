@@ -62,3 +62,5 @@ The program will output the first 12 numbers of the Fibonacci sequence:
 ## Author
 
 Created as a learning exercise for implementing the Fibonacci sequence.
+
+### I love you all & happy coding!
